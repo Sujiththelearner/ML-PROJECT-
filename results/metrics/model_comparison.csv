@@ -1,0 +1,5 @@
+Model,CV Accuracy (Train),Test Accuracy,Precision (Macro),Recall (Macro),F1-Score (Macro)
+Logistic Regression,0.99,0.9833,0.9838,0.9833,0.9833
+Random Forest,0.9883,0.98,0.9805,0.98,0.98
+K-Nearest Neighbors,0.9908,0.9767,0.9779,0.9767,0.9766
+Decision Tree,0.9525,0.9467,0.9474,0.9467,0.9465
